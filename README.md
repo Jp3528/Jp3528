@@ -1,12 +1,11 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=220&text=Hola,%20soy%20Jean%20&fontAlign=50&fontAlignY=38&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,45:203a43,100:2c5364&text=Hola,%20soy%20Jean%20👋&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Desarrollador%20en%20formaci%C3%B3n%20%7C%20Frontend%20%7C%20Backend%20%7C%20Bases%20de%20datos&descSize=18&descAlignY=55&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&center=true&vCenter=true&width=1000&lines=Desarrollador+en+formaci%C3%B3n;Frontend+%7C+Backend+%7C+Bases+de+datos;Java+%7C+JavaScript+%7C+TypeScript+%7C+PHP;React+%7C+Laravel+%7C+PostgreSQL+%7C+Docker;Aprendiendo%2C+creando+y+mejorando+cada+d%C3%ADa)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&center=true&vCenter=true&width=1000&lines=Java+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+PHP;React+%E2%80%A2+Laravel+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;Construyendo+%E2%80%A2+Aprendiendo+%E2%80%A2+Mejorando)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jp3528-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jp3528)
-![Visitas](https://komarev.com/ghpvc/?username=Jp3528&style=for-the-badge&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=Jp3528&label=PROFILE%20VIEWS&style=for-the-badge&color=0e75b6)
 
 ---
-
 ## 🚀 Sobre mí
 
 Soy una persona enfocada en seguir creciendo como desarrollador mediante **proyectos personales, práctica constante y aprendizaje continuo**.
