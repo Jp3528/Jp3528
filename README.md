@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=220&text=Hola,%20soy%20Jean%20👋&fontAlign=50&fontAlignY=38&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=220&text=Hola,%20soy%20Jean%20&fontAlign=50&fontAlignY=38&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&animation=fadeIn)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&center=true&vCenter=true&width=1000&lines=Desarrollador+en+formaci%C3%B3n;Frontend+%7C+Backend+%7C+Bases+de+datos;Java+%7C+JavaScript+%7C+TypeScript+%7C+PHP;React+%7C+Laravel+%7C+PostgreSQL+%7C+Docker;Aprendiendo%2C+creando+y+mejorando+cada+d%C3%ADa)
 
