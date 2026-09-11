@@ -98,7 +98,7 @@ Soy una persona enfocada en seguir creciendo como desarrollador mediante **proye
 
 ## 🐍 Contribuciones en movimiento
 
-![Snake animation](https://raw.githubusercontent.com/Jp3528/Jp3528/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Jp3528/Jp3528/gh-pages/github-contribution-grid-snake.svg)
 
 ---
 
