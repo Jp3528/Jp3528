@@ -130,4 +130,4 @@ Soy una persona enfocada en seguir creciendo como desarrollador mediante **proye
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364)
+![Banner inferior](./Banner%20inferior.png)
