@@ -1,133 +1,81 @@
-![Banner animado](./banner_github_jean_animado.gif)
+# Jean | Web Developer
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&center=true&vCenter=true&width=1000&lines=Desarrollador+en+formaci%C3%B3n;Frontend+%7C+Backend+%7C+Bases+de+datos;Java+%7C+JavaScript+%7C+TypeScript+%7C+PHP;React+%7C+Laravel+%7C+PostgreSQL+%7C+Docker;Aprendiendo%2C+creando+y+mejorando+cada+d%C3%ADa)
+[Español](#espanol) · [English](#english) · [Repositorios / Repositories](https://github.com/Jp3528?tab=repositories)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Jp3528-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jp3528)
-![Visitas](https://komarev.com/ghpvc/?username=Jp3528&style=for-the-badge&color=0e75b6)
+![Jean — desarrollo web / web development](banner_github_jean_animado.gif)
 
----
+<a id="espanol"></a>
 
----
-## 🚀 Sobre mí
+## Español
 
-Soy una persona enfocada en seguir creciendo como desarrollador mediante **proyectos personales, práctica constante y aprendizaje continuo**.
+Desarrollo aplicaciones web que conectan interfaces, APIs y bases de datos. Mi portafolio reúne proyectos personales y académicos de comercio electrónico, gestión comercial y experiencias interactivas, con atención a la organización del código y a la documentación de su alcance.
 
-- 💻 Desarrollo proyectos de **Frontend y Backend**.
-- ⚛️ Trabajo y practico con **React, JavaScript y TypeScript**.
-- 🔴 Aprendo y desarrollo con **PHP y Laravel**.
-- ☕ También utilizo **Java**.
-- 🗄️ Trabajo con **SQL, PostgreSQL y HeidiSQL**.
-- 🐳 Estoy incorporando **Docker** en mis proyectos.
-- 🧩 Me interesa la arquitectura **MVC** y el desarrollo de **APIs REST**.
-- 📚 Utilizo GitHub para documentar mi progreso y compartir lo que voy creando.
+Busco oportunidades de desarrollo web donde pueda aportar con proyectos concretos, trabajar en equipo y seguir fortaleciendo mis habilidades técnicas.
 
----
+### Proyectos destacados
 
-## 🛠️ Tecnologías y herramientas
+| Proyecto                                                       | Qué puedes explorar                                                                                              | Tecnologías                                |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [NexusCRM](https://github.com/Jp3528/CRM)                      | Gestión de clientes y ventas, permisos por equipo, documentos comerciales y auditoría.                           | Laravel, PHP, PostgreSQL, Blade, Alpine.js |
+| [HomeSphere](https://github.com/Jp3528/HomeSphere)             | Tienda de hogar con ambientes interactivos, reservas de inventario y pagos simulados.                            | ASP.NET Core, C#, Next.js, PostgreSQL      |
+| [Documint](https://github.com/Jp3528/Documint)                 | Biblioteca documental con permisos, versiones y pipeline en desarrollo; recuperación y RAG en fases posteriores. | Python, FastAPI, React, Celery, PostgreSQL |
+| [CasaViva](https://github.com/Jp3528/CasaViva)                 | Catálogo, carrito, cuenta de cliente y flujo de compra con datos demo o PostgreSQL.                              | React, TypeScript, Express, PostgreSQL     |
+| [NexaTech](https://github.com/Jp3528/Nexatech)                 | Tienda de tecnología con catálogo, API, pruebas y asistente de respuestas locales.                               | React, TypeScript, Express, Vite           |
+| [Chatbot Clientes](https://github.com/Jp3528/Chatbot-CLiente-) | Prototipo de atención multi-negocio con motor local, API y widget embebible.                                     | Node.js, Express, JavaScript               |
 
-### 💻 Stack principal
+### Frontend y experiencias interactivas
 
-![Stack](https://skillicons.dev/icons?i=java,javascript,typescript,php,react,html,css,laravel,postgres,docker,git,github,vscode&perline=13)
+- [BEYOND MOTION](https://github.com/Jp3528/Animacion-cinematica-web-para-landing): narrativa visual por scroll y renderizado con Canvas 2D.
+- [SABOR & MAÑANA](https://github.com/Jp3528/Sabor-y-Ma-ana): catálogo gastronómico y flujo de pedido hacia WhatsApp.
+- [Distrito Alto](https://github.com/Jp3528/Landing-page-Premium-Home): landing inmobiliaria con catálogo filtrable.
+- [Convoca Perú](https://github.com/Jp3528/Convoca-PERU): portal de oportunidades con Next.js y datos locales tipados.
 
-### 🗄️ Bases de datos
+### Tecnologías presentes en mis proyectos
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge)
+- **Frontend:** JavaScript, TypeScript, React, Next.js, HTML y CSS.
+- **Backend:** PHP/Laravel, Node.js/Express, C#/ASP.NET Core y Python/FastAPI.
+- **Datos y herramientas:** PostgreSQL, MySQL/MariaDB, Git, Docker y GitHub Actions.
+- **Prácticas que desarrollo:** separación de responsabilidades, APIs REST, autorización, pruebas y documentación técnica.
 
----
+Cada README explica cómo ejecutar el proyecto y distingue las funciones implementadas, los datos de demostración y las etapas pendientes.
 
-## ⚡ Lo que estoy fortaleciendo
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### ⚙️ Backend
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-### 🗃️ Datos
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=flat-square)
-
-### 🔧 Herramientas
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-![Learning](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=850&width=1000&lines=Mejorando+mi+Frontend;Construyendo+mejor+Backend;Profundizando+en+bases+de+datos;Aprendiendo+Docker+y+buenas+pr%C3%A1cticas;Creando+APIs+REST+mejor+estructuradas)
+**Perfil y contacto profesional:** [GitHub · @Jp3528](https://github.com/Jp3528).
 
 ---
 
-## 📚 Actualmente aprendiendo
+<a id="english"></a>
 
-- React y TypeScript.
-- Laravel y PHP.
-- Java.
-- PostgreSQL y SQL.
-- Docker.
-- APIs REST.
-- Arquitectura MVC.
-- Buenas prácticas de desarrollo.
+## English
 
----
+I develop web applications that connect interfaces, APIs and databases. My portfolio includes personal and academic projects in e-commerce, sales management and interactive experiences, with attention to code organization and clear documentation of each project's scope.
 
-## 📂 En mi GitHub encontrarás
+I am interested in web development opportunities where I can contribute through practical projects, collaborate with a team and continue developing my technical skills.
 
-- 🌐 Aplicaciones web.
-- ⚛️ Proyectos con React.
-- 🔴 Proyectos con Laravel y PHP.
-- ☕ Prácticas y proyectos con Java.
-- 🗄️ Bases de datos con PostgreSQL y SQL.
-- 🐳 Pruebas y entornos con Docker.
-- 🔌 APIs REST.
-- 🧩 Proyectos organizados con arquitectura MVC.
-- 📖 Repositorios de práctica y aprendizaje.
+### Featured projects
 
----
+| Project                                                        | What to explore                                                                                                                      | Technology                                 |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
+| [NexusCRM](https://github.com/Jp3528/CRM)                      | Customer and sales management, team-based permissions, sales documents and auditing.                                                 | Laravel, PHP, PostgreSQL, Blade, Alpine.js |
+| [HomeSphere](https://github.com/Jp3528/HomeSphere)             | Home goods store with interactive room scenes, inventory reservations and simulated payments.                                        | ASP.NET Core, C#, Next.js, PostgreSQL      |
+| [Documint](https://github.com/Jp3528/Documint)                 | Permission-controlled document library, versioning and a pipeline under development; retrieval and RAG are planned for later phases. | Python, FastAPI, React, Celery, PostgreSQL |
+| [CasaViva](https://github.com/Jp3528/CasaViva)                 | Catalog, cart, customer account and shopping flow using demo data or PostgreSQL.                                                     | React, TypeScript, Express, PostgreSQL     |
+| [NexaTech](https://github.com/Jp3528/Nexatech)                 | Technology store with a catalog, API, tests and a local-response assistant.                                                          | React, TypeScript, Express, Vite           |
+| [Chatbot Clientes](https://github.com/Jp3528/Chatbot-CLiente-) | Multi-business support prototype with a local engine, API and embeddable widget.                                                     | Node.js, Express, JavaScript               |
 
-## 🐍 Contribuciones en movimiento
+### Frontend and interactive experiences
 
-![Snake animation](https://raw.githubusercontent.com/Jp3528/Jp3528/gh-pages/github-contribution-grid-snake.svg)
+- [BEYOND MOTION](https://github.com/Jp3528/Animacion-cinematica-web-para-landing): scroll-driven visual storytelling and Canvas 2D rendering.
+- [SABOR & MAÑANA](https://github.com/Jp3528/Sabor-y-Ma-ana): food catalog and a WhatsApp order handoff.
+- [Distrito Alto](https://github.com/Jp3528/Landing-page-Premium-Home): real estate landing page with a filterable catalog.
+- [Convoca Perú](https://github.com/Jp3528/Convoca-PERU): opportunity portal using Next.js and typed local data.
 
----
+### Technologies used in my projects
 
-## 🎯 Objetivos
+- **Frontend:** JavaScript, TypeScript, React, Next.js, HTML and CSS.
+- **Backend:** PHP/Laravel, Node.js/Express, C#/ASP.NET Core and Python/FastAPI.
+- **Data and tooling:** PostgreSQL, MySQL/MariaDB, Git, Docker and GitHub Actions.
+- **Practices I am developing:** separation of concerns, REST APIs, authorization, testing and technical documentation.
 
-- 🚀 Seguir mejorando como desarrollador.
-- 💻 Crear proyectos personales cada vez más completos.
-- ⚛️ Profundizar en React y TypeScript.
-- 🔴 Mejorar mis conocimientos de Laravel y PHP.
-- ☕ Fortalecer Java.
-- 🗄️ Dominar mejor PostgreSQL y SQL.
-- 🐳 Integrar Docker con mayor frecuencia.
-- 🔌 Crear APIs REST mejor estructuradas.
-- 🧩 Aplicar buenas prácticas y arquitectura limpia.
-- 📁 Construir un portafolio sólido en GitHub.
+Each README explains how to run the project and distinguishes implemented features, demonstration data and pending work.
 
----
-
-## ✨ Perfil en evolución
-
-![Evolution](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&width=1000&lines=Cada+repositorio+es+parte+de+mi+aprendizaje.;Siempre+hay+algo+nuevo+por+aprender.;Construyendo%2C+probando+y+mejorando.)
-
----
-
-## 📫 Contacto
-
-[![GitHub](https://img.shields.io/badge/GitHub-Jp3528-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jp3528)
-
----
-
-![Banner inferior](./Banner%20inferior.png)
+**Profile and professional contact:** [GitHub · @Jp3528](https://github.com/Jp3528).
